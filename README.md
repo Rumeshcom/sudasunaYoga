@@ -1,2 +1,2 @@
 # sudasunaYoga
-Yoga Ashram
+<b>Yoga Ashram</b>
