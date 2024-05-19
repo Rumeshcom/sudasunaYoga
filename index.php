@@ -418,7 +418,7 @@
                                     <small class="text-muted mb-0">Deputy Director General Central Environmental Authority </small>     
                                 </div>
                             </div>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
+                            <p class="mb-0">Yoga has transformed my life! It's the perfect way to de-stress and stay fit.</p>
                         </div>
                     </div>
                 </div>
@@ -432,7 +432,7 @@
                                     <small class="text-muted mb-0">Sri Lanka Army</small>      
                                 </div>
                             </div>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
+                            <p class="mb-0">The yoga classes are fantastic. I've seen a huge improvement in my posture and mental clarity.</p>
                         </div>
                     </div>
                 </div>
@@ -446,7 +446,7 @@
                                     <small class="text-muted mb-0">Chief Legal Officer Bank of Ceylon</small>        
                                 </div>
                             </div>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus enim modi, id dicta reiciendis itaque.</p>
+                            <p class="mb-0">After starting yoga, I feel more flexible and energized throughout the day.</p>
                         </div>
                     </div>
                 </div>
