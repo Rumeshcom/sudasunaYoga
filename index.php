@@ -461,7 +461,7 @@
             <div class="row align-items-center">
                 <div class="col-md-5 my-3">
                     <h6 class="mb-0">Phone</h6>
-                    <p class="mb-4">Kostha : +94 77 7302575 / Rumesh : +94 76 9712052</p>
+                    <p class="mb-4">Costa : +94 77 7302575 </p>
 
                     <h6 class="mb-0">Head office</h6> 
                     <p class="mb-4">Boralasgamuwa</p>
